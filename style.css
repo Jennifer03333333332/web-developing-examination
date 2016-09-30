@@ -1,3 +1,4 @@
+
 #__01 {
     position:absolute;
     left:0px;
@@ -49,7 +50,7 @@
 #x9996x9875-06 {
     position:absolute;
     left:847px;
-    top:72px;
+    top:78px;
     width:215px;
     height:38px;
 }
@@ -65,9 +66,9 @@
 #x9996x9875-08 {
     position:absolute;
     left:1140px;
-    top:72px;
-    width:80px;
-    height:38px;
+    top:78px;
+    width:63px;
+    height:30px;
 }
 
 #x9996x9875-09 {
@@ -262,12 +263,20 @@
     height:116px;
 }
 
-#x9996x9875-33 {
+.c33 {
     position:absolute;
     left:987px;
     top:1394px;
     width:101px;
     height:22px;
+    background-color: #ebf8d6;
+}
+
+.ckgd {
+    color: darkgreen;
+    font-size: inherit;
+    font-family: serif;
+    margin-top: 0;
 }
 
 #x9996x9875-34 {
@@ -348,6 +357,7 @@
     top:2144px;
     width:101px;
     height:22px;
+    background-color: #ebf8d6;
 }
 
 #x9996x9875-44 {
@@ -476,6 +486,7 @@
     top:2699px;
     width:101px;
     height:22px;
+    background-color: #ebf8d6;
 }
 
 #x9996x9875-60 {
